@@ -16,7 +16,7 @@ This code is explained in detail in the accompanying [blog post]().
 Clone the repo by running
 
 ```sh
-git clone url JudgeMyTaste
+git clone https://github.com/oktadeveloper/aspnetcore-22-sql-server-crud-example.git JudgeMyTaste
 cd JudgeMyTaste
 ```
 
